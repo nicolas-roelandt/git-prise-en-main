@@ -1,0 +1,6 @@
+utilisation-locale
+initialisation
+manipuler-les-branches
+travailler-avec-un-dépôt-distant
+collaborer-avec-git
+ressources-utiles
