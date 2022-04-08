@@ -11,3 +11,6 @@ libs/
 .Rhistory
 .RData
 .Ruserdata
+
+# don't ignore bibliography !
+!book.bib
