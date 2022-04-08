@@ -12,6 +12,7 @@ description: |
   Teaching materials for R and R-spatial introduction workshop at FOSS4G2022.
 link-citations: yes
 github-repo: nicolas-roelandt/git-prise-en-main
+favicon: "index.ico"
 ---
 
 # A propos {-}
