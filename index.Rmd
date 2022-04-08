@@ -1,0 +1,28 @@
+--- 
+title: "Prise en main de git"
+author: 
+  - "Nicolas Roelandt"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Teaching materials for R and R-spatial introduction workshop at FOSS4G2022.
+link-citations: yes
+github-repo: nicolas-roelandt/git-prise-en-main
+---
+
+# A propos {-}
+
+Ce document regroupe les ressources pédagogiques d'un atelier de formation au versionnement logiciel avec [Git](https://git-scm.com/).
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
