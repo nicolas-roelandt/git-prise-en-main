@@ -1,0 +1,7 @@
+# Collaborer avec git
+
+* cloner un dépôt existant
+* faire une modification
+* pousser sur ~origin~
+* faire une demande de fusion ~pull request~
+* fusionner une demande de fusion / gérer les conflits

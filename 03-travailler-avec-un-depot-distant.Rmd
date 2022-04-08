@@ -1,0 +1,6 @@
+# Travailler avec un dépôt distant
+
+- créer un compte sur une plateforme
+- créer un nouveau dépot
+- ajouter un dépot distant ~git add remote~
+- pousser ses changement ~git push origin~

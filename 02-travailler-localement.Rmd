@@ -1,0 +1,11 @@
+# Utilisation locale
+## Initialisation
+- créer un dossier avec un README
+- initialiser le dossier avec ~git init~
+## Committer
+### Visualiser les modifications
+- voir le statut ~git status~
+- utiliser ~git diff~
+- ajouter un dossier dans staging
+
+## Manipuler les branches

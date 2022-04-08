@@ -9,7 +9,7 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  Teaching materials for R and R-spatial introduction workshop at FOSS4G2022.
+  Ressources pédagogiques d'un atelier de formation au versionnement logiciel avec [Git](https://git-scm.com/).
 link-citations: yes
 github-repo: nicolas-roelandt/git-prise-en-main
 favicon: "index.ico"
@@ -19,6 +19,7 @@ favicon: "index.ico"
 
 Ce document regroupe les ressources pédagogiques d'un atelier de formation au versionnement logiciel avec [Git](https://git-scm.com/).
 
+Il n'y a pas de pré-requis.
 
 
 ```{r include=FALSE}

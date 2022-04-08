@@ -1,1 +1,11 @@
 # Introduction {-}
+
+## Présentation de l'outil {-}
+
+### Installation {-}
+	   - git for windows
+	   - git for linux
+	   
+## Configuration {-}
+	   - username
+	   - email
